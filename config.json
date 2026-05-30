@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentdetch",
+        "uuid": 136290,
+        "checksum": "3yalt"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
